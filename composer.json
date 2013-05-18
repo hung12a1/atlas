@@ -1,4 +1,5 @@
 {
+    "name": "hung12a1/atlas", 
     "require": {
         "hung12a1/atlas": "master"
     },
