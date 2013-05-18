@@ -1,5 +1,5 @@
 {
-    "name": "Atlas", 
+    "name": "Atlas/Client.php", 
     "repositories": [
         {
             "type": "vcs",
