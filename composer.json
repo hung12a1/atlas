@@ -1,0 +1,11 @@
+{
+    "require": {
+        "vendor/atlas": "master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/hung12a1/atlas.git"
+        }
+    ]
+}
