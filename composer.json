@@ -1,12 +1,9 @@
 {
-    "name": "hung12a1/atlas", 
-    "require": {
-        "Client.php"
-    },
+    "name": "Atlas", 
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/hung12a1/atlas.git"
+            "url":  "https://github.com/hung12a1/atlas"
         }
     ]
 }
