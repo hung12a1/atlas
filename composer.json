@@ -1,9 +1,10 @@
 {
-    "name": "hung12a1/atlas", 
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/hung12a1/atlas"
+            "url":  "https://github.com/hung12a1/atlas.git"
         }
     ]
 }
+
+ 
