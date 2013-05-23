@@ -15,7 +15,7 @@
  *
  *  @copyright Copyright © 2012 dotMobi. All rights reserved.
  */
-namespace atlast; 
+namespace atlast/DeviceAtlasCloudClient; 
 class DeviceAtlasCloudClient {
 
 
